@@ -11,7 +11,7 @@ import java.util.Map;
  * Organizes all calculator buttons with consistent styling
  * Implements responsive button sizing
  *
- * @author Abdelrahman
+ * @author Abdelrahman adsa
  */
 public class ButtonPanel extends GridPane {
 
